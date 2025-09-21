@@ -1,4 +1,4 @@
-# Planets Table 🌍
+# Planets Table 🌍 [ [Live Demo](https://codamee.github.io/Planets-Tabular-Data/) ]
 
 This is a static HTML table displaying data about the planets in our solar system. The project was created to demonstrate skills in building semantic and accessible table layouts using HTML, and applying styles with CSS.
 
