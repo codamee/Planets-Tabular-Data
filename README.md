@@ -7,4 +7,4 @@ This is a static HTML table displaying data about the planets in our solar syste
 -   **Advanced Layout:** Leverages `colspan` and `rowspan` to create a complex table.
 -   **Styling:** Utilizes the `<colgroup>` and `<col>` elements for efficient column-based styling.
 -   **Accessibility:** Includes the `scope` attribute on `<th>` elements to improve accessibility for screen readers.
--   **Responsive Design:** (If applicable, you can add this later if you make it responsive.)
+
